@@ -22,7 +22,7 @@ In today’s data-centric world, the quality of text data heavily influences ana
 
 🚀 Files Included
 
-project_09.ipynb  NLP pipeline in Jupyter with logging, preprocessing, and analysis
+Project.ipynb  NLP pipeline in Jupyter with logging, preprocessing, and analysis
 app.py Streamlit web app for real-time input and table-based analytics 
 requirements.txt Python dependencies 
 
